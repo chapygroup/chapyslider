@@ -10,20 +10,21 @@
 <h2>USAGE:</h2>
 
 <h3>1. DOM structure:</h3>
+```
 <div class="chapyslider">
-			<div class="cp-slide">
-				slide 1 (any contain can be place here)
-			</div>
+	<div class="cp-slide">
+		slide 1 (any contain can be place here)
+	</div>
 
-			<div class="cp-slide">
-				slide 4 (any contain can be place here)
-			</div>
+	<div class="cp-slide">
+		slide 4 (any contain can be place here)
+	</div>
 
-			<div class="cp-slide">
-				slide 3 (any contain can be place here)
-			</div>
+	<div class="cp-slide">
+		slide 3 (any contain can be place here)
+	</div>
 </div>
-
+```
 <h3>2. Init:</h3>
 $(".chapyslider").chapyslider();
 
@@ -38,4 +39,4 @@ $(".chapyslider").chapyslider();
  		height: "300px"	// heigh of slider	
  	};
 <h2>DEMO:</h2>
-<a href="http://chapygroup.com/demo/chapyslider/dev/index.html">http://chapygroup.com/demo/chapyslider/dev/index.html</a>
+http://chapygroup.com/demo/chapyslider/dev/index.html
