@@ -26,10 +26,12 @@
 </div>
 ```
 <h3>2. Init:</h3>
+```
 $(".chapyslider").chapyslider();
-
+```
 <h3>3. Default setting:</h3>
 (you can overwrite all as usual way)
+```
  	var defaultOptions = {
  		autoPlay: true,
  		interval: 1000,
@@ -38,5 +40,6 @@ $(".chapyslider").chapyslider();
  		width: "800px", // width of slider
  		height: "300px"	// heigh of slider	
  	};
+```
 <h2>DEMO:</h2>
 http://chapygroup.com/demo/chapyslider/dev/index.html
