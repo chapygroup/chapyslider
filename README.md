@@ -1,28 +1,33 @@
-chapyslider
+<h1>chapyslider</h1>
 ===========
+<h2>FEATURES:</h2>
 
-USAGE:
+- Fade effect
+- Slide stop when mouse is hovering
+- Multi sliders in 1 page
+- Slide contain is controlled and styled by youself.
 
-1. DOM structure:
-(you can have multi instance of slider in 1 page)
+<h2>USAGE:</h2>
+
+<h3>1. DOM structure:</h3>
 <div class="chapyslider">
 			<div class="cp-slide">
-				<img src="http://lorempixel.com/800/300/cats" />
+				slide 1 (any contain can be place here)
 			</div>
 
 			<div class="cp-slide">
-				<img src="http://lorempixel.com/800/300/sports" />
+				slide 4 (any contain can be place here)
 			</div>
 
 			<div class="cp-slide">
-				<img src="http://lorempixel.com/800/300/food" />
+				slide 3 (any contain can be place here)
 			</div>
 </div>
 
-2. Init:
+<h3>2. Init:</h3>
 $(".chapyslider").chapyslider();
 
-3. Default setting:
+<h3>3. Default setting:</h3>
 (you can overwrite all as usual way)
  	var defaultOptions = {
  		autoPlay: true,
@@ -32,3 +37,5 @@ $(".chapyslider").chapyslider();
  		width: "800px", // width of slider
  		height: "300px"	// heigh of slider	
  	};
+<h2>DEMO:</h2>
+<a href="http://chapygroup.com/demo/chapyslider/dev/index.html">http://chapygroup.com/demo/chapyslider/dev/index.html</a>
