@@ -133,7 +133,7 @@
                             'height': 'auto'
                         }).find('.' + constants.slideContainer).css({
                             'padding-top': ratio + '%'
-                        });
+                        }).closest('.chapyslider').addClass('loaded-slider');
                     });
                     break;
                 }
