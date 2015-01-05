@@ -14,15 +14,15 @@
 ```
 <div class="chapyslider">
 	<div class="cp-slide">
-		slide 1 (any contain can be place here)
+		slide 1 (any content can be place here)
 	</div>
 
 	<div class="cp-slide">
-		slide 4 (any contain can be place here)
+		slide 4 (any content can be place here)
 	</div>
 
 	<div class="cp-slide">
-		slide 3 (any contain can be place here)
+		slide 3 (any content can be place here)
 	</div>
 </div>
 ```
