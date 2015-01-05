@@ -6,6 +6,7 @@
 - Slide stop when mouse is hovering
 - Multi sliders in 1 page
 - Slide contain is controlled and styled by youself.
+- Responsive supported
 
 <h2>USAGE:</h2>
 
